@@ -36,3 +36,4 @@ Flarum is open-source and we would love your help building it! Please read the [
 ## License
 
 Copyright (c) 2015 Toby Zerner. Code released under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
+ 
